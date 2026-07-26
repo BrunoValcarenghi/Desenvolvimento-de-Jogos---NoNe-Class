@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_toca_som",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_toca_som",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Efeitos/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
