@@ -1,0 +1,1 @@
+if global.atual != noone global.atual = noone

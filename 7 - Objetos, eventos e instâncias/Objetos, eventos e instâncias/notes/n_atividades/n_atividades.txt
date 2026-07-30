@@ -1,0 +1,91 @@
+ATIVIDADE 1:
+
+a atividade 1 é fazer um obj mostrar uma mensagem debug a todo momento, 
+porém quando o mouse estiver em cima do obj as letras devem se tornar maiusculas
+quando o mosue sair, as letras voltam minusculas.
+como esse é um modulo q vai ensinar os eventos uso 4 eventos do obj player, 
+create, step, mouse entra e sai
+
+
+ATIVIDADE 2:
+
+fazer o obj mover com as setinhas do teclado
+
+
+ATIVIDADE 3:
+
+instanciar varias vezes o mesmo objeto player,
+ao clicar em um a velocidade do mesmo deve aumentar
+
+
+ATIVIDADE 4:
+
+definar nome de cada um apartir da variable defition
+ao clicar com botao esquerdo exibir o nome 
+
+
+ATIVIDADE 5:
+
+ao apertar espaço speed = 2
+soltar volta a 0
+
+
+ATIVIDADE 6:
+
+criar novo objeto para noa ficar tanto codigo
+ao apertar as setas rodar
+espaço da velocidade
+
+ATIVIDADE 7:
+
+criar 3 variaveis
+nome da rua
+numero da casa
+nome do bairro
+exibir todos com variavel temporaria 
+
+
+ATIVIDADE 8:
+
+fazer o player2 mover só se a variavel mover = true
+
+
+ATIVIDADE 9:
+
+iniciar global.pontos em um script sem function,
+pois executa antes de tds objetos
+aumentar global.pontos toda vez q o mouse passar pelo player2
+
+
+ATIVIDADE 10: 
+
+somente o carro atual pode se mover, e ele é vermelho
+só pode ter um carro atual por vez
+
+
+ATIVIDADE 11: 
+
+além de ficar vermelho, 
+desenhar texto que o player consegue se mover
+
+
+ATIVIDADE 12:
+
+tirar o posso me mover e mudar pelo nome do carro
+exibir pontos com um objeto com drawgui
+exibir o nome do carro atual junto com pontos
+
+
+ATIVIDADE 13:
+
+se o carro sair da room voltar para o centro
+
+
+ATIVIDADE 14:
+
+mudar o nome do carro com um alarm de 2 segundos
+
+
+ATIVIDADE 15;
+
+escrever o destino

@@ -1,0 +1,6 @@
+APRENDIZADOS;
+
+-Create executa antes do game_start/room_start
+-game_start executa antes do room_start
+-scripts executam antes de qualquer objeto, basta nao usar function neles
+-da pra alterar a ordem do q é instanciado primeiro na room
