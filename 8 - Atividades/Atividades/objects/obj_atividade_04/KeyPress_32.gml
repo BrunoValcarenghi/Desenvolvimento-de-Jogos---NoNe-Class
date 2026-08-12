@@ -1,0 +1,1 @@
+vel = -vel; // inverte a vel se apertar a tecla space
