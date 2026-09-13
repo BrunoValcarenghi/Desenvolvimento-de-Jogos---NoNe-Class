@@ -2,12 +2,14 @@ if place_meeting(x, y, obj_raquete){
 	
 	direction = (irandom_range(160, 180) - direction) % 360
 	if speed < 5 speed *= 1.1
+	audio_random(sfx_boing)
 
 }
 if place_meeting(x, y, obj_colisao){
 
 	direction = (360 - direction) % 360
-
+	audio_random(sfx_boing)
+	
 }
 
 if x < 0 - 16 or x > room_width + 16{	

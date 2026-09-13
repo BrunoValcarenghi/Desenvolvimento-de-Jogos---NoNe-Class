@@ -1,5 +1,5 @@
 speed = 2
-depth = -999
+depth = -998
 
 a = 20
 

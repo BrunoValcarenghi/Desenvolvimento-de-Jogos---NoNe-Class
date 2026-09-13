@@ -1,22 +1,20 @@
 {
   "$GMRoom":"v1",
-  "%Name":"Room1",
+  "%Name":"rm1",
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_62C9F6E","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_4BF94C5D","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_487A2210","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_70B406A2","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_743A33ED","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_4DF6C271","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_4BF94C5D","path":"rooms/rm1/rm1.yy",},
+    {"name":"inst_487A2210","path":"rooms/rm1/rm1.yy",},
+    {"name":"inst_70B406A2","path":"rooms/rm1/rm1.yy",},
+    {"name":"inst_743A33ED","path":"rooms/rm1/rm1.yy",},
+    {"name":"inst_4DF6C271","path":"rooms/rm1/rm1.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v4","%Name":"inst_62C9F6E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_62C9F6E","objectId":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":192.0,"y":96.0,},
         {"$GMRInstance":"v4","%Name":"inst_4BF94C5D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4BF94C5D","objectId":{"name":"obj_raquete_1","path":"objects/obj_raquete_1/obj_raquete_1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":48.0,"y":128.0,},
         {"$GMRInstance":"v4","%Name":"inst_487A2210","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_487A2210","objectId":{"name":"obj_colisao","path":"objects/obj_colisao/obj_colisao.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":6.75,"scaleY":1.0,"x":0.0,"y":-56.0,},
         {"$GMRInstance":"v4","%Name":"inst_70B406A2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_70B406A2","objectId":{"name":"obj_colisao","path":"objects/obj_colisao/obj_colisao.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":6.75,"scaleY":1.0,"x":0.0,"y":231.0,},
@@ -25,10 +23,10 @@
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"spr_backgorund","path":"sprites/spr_backgorund/spr_backgorund.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-  "name":"Room1",
+  "name":"rm1",
   "parent":{
-    "name":"Valcarenghi's Pong",
-    "path":"Valcarenghi's Pong.yyp",
+    "name":"room",
+    "path":"folders/room.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
