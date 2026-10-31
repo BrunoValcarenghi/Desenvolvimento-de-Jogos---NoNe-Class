@@ -1,7 +1,7 @@
-vel_x = 2;
-vel_y = 0;
+vel_x = 2; //começa com velocidade horizontal
+vel_y = 0; // mas sem velocidade vertical
 
-alarm[0] = 60;
+alarm[0] = 60; //alarm0 = 1 segundo
 
 /*
 

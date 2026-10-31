@@ -1,1 +1,1 @@
-show_debug_message(alarm[0]);
+show_debug_message(alarm[0]); //mostra o tempo do alarm no debug

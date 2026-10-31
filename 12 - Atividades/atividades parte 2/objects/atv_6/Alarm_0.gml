@@ -1,3 +1,4 @@
+//inverte velocidade horizontal com vertical
 if (vel_x > 0)
 {
 	vel_x = 0;
@@ -9,4 +10,4 @@ else
 	vel_x = 2;
 }
 
-alarm[0] = room_speed;
+alarm[0] = room_speed; //reseta alarm

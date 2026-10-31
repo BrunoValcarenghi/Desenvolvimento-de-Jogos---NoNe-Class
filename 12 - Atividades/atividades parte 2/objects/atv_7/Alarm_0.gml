@@ -1,1 +1,1 @@
-vel_y = 2;
+vel_y = 2; // adiciona velocidade vertical

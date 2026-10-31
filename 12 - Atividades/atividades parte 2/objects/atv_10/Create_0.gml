@@ -1,5 +1,6 @@
-vel   = 2;
+vel   = 2; //define velocidade
 
+//define a velocidade para vertical e horizontal
 vel_x = vel;
 vel_y = vel;
 

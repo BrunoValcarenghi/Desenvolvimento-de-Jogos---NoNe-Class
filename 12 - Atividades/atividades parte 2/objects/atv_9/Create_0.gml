@@ -1,8 +1,8 @@
-vel_x = 10;
+vel_x = 10; //inicia com uma velocidade de 10
 
-tempo = 1;
+tempo = 1; //começa com um tempo de 1
 
-alarm[0] = room_speed * tempo;
+alarm[0] = room_speed * tempo; //alarm0 vai iniciar sendo uma relação tempo*frames da sala(por padrao 60)
 
 /*
 	

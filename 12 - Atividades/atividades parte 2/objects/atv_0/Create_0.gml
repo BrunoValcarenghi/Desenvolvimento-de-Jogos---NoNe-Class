@@ -1,6 +1,6 @@
-tempo = 60;
+tempo = 60; //define tempo em 60
 
-alarm[0] = tempo;
+alarm[0] = tempo; //define o tempo do alarm 0 como tempo
 
 /*
 explicação da atividade:

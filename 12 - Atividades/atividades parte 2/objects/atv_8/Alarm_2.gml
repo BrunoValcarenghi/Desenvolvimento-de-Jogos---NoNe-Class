@@ -1,1 +1,1 @@
-vel_y = -2;
+vel_y = -2; //add velocidade para mover para cima

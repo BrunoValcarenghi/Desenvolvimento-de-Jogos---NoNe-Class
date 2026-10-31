@@ -1,1 +1,1 @@
-vel_x = 2;
+vel_x = 2; //add velocidade para mover para direita

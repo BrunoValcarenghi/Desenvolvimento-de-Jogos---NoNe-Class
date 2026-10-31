@@ -1,7 +1,8 @@
+//movimenta obj
 x += vel_x;
 y += vel_y;
 
-
+//checa se saiu da room
 if (x > room_width + 32)
 {
 	x = -32;

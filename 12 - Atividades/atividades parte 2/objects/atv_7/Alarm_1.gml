@@ -1,1 +1,1 @@
-vel_x = 2;
+vel_x = 2; // adiciona velocidade horizontal

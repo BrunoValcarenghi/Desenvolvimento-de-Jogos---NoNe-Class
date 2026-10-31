@@ -1,5 +1,5 @@
-vel_x = 2;
-vel_y = 0;
+vel_x = 2; //começa com velocidade horizontal
+vel_y = 0; // mas sem velocidade vertical
 
 /*
 	define as velocidades iniciais
