@@ -1,0 +1,40 @@
+{
+  "$GMProject":"v1",
+  "%Name":"atividades parte 2",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2026.0.0.16",
+  },
+  "name":"atividades parte 2",
+  "resources":[
+    {"id":{"name":"atv_0","path":"objects/atv_0/atv_0.yy",},},
+    {"id":{"name":"atv_10","path":"objects/atv_10/atv_10.yy",},},
+    {"id":{"name":"atv_6","path":"objects/atv_6/atv_6.yy",},},
+    {"id":{"name":"atv_7","path":"objects/atv_7/atv_7.yy",},},
+    {"id":{"name":"atv_8","path":"objects/atv_8/atv_8.yy",},},
+    {"id":{"name":"atv_9","path":"objects/atv_9/atv_9.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_blank","path":"sprites/spr_blank/spr_blank.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
